@@ -1,43 +1,42 @@
-Day(week#),Toy/Plush,Time/Enjoyment (based on how long she plays with it)
-Mon00,Squirrel,2
-Tues00,Sock,3
-Wed00,Tennis Ball,2
-Thurs00,Monkey,2
-Fri00,Squirrel,3
-Sat00,Monkey,2
-Sun00,Squirrel,3
-Mon01,Tennis Ball,2
-Tues01,Sock,3
-Wed01,Squirrel,3
-Thurs01,Sock,2
-Fri01,Sock,3
-Sat01,Monkey,2
-Sun01,Squirrel,2
-Mon02,Tennis Ball,1
-Tues02,Squirrel,3
-Wed02,Squirrel,3
-Thurs02,Monkey,2
-Fri02,Sock,3
-Sat02,Tennis Ball,2
-Sun02,Tennis Ball,1
-Mon03,Sock,3
-Tues03,Monkey,2
-Wed03,Sock,3
-Thurs03,Sock,3
-Fri03,Tennis Ball,1
-Sat03,Squirrel,2
-Sun03,Squirrel,3
-Mon04,Sock,2
-Tues04,Monkey,3
-Wed04,Sock,2
-Thurs04,Sock,2
-Fri04,Tennis Ball,1
-Sat04,Squirrel,2
-Sun04,Tennis Ball,2
-Mon05,Sock,3
-Tues05,Monkey,2
-Wed05,Squirrel,2
-Thurs05,Squirrel,3
-Fri05,Monkey,3
-Sat05,Sock,3
-Sun05,Sock,2
+Day,Toy,Enjoyment,Throw
+Tuesday,Sock,3,3
+Wednesday,Ball,2,4
+Thursday,Monkey,2,1
+Friday,Squirrel,3,5
+Saturday,Monkey,2,3
+Sunday,Squirrel,3,4
+Monday,Ball,2,6
+Tuesday,Sock,3,4
+Wednesday,Squirrel,3,2
+Thursday,Sock,2,8
+Friday,Sock,3,5
+Saturday,Monkey,2,4
+Sunday,Squirrel,2,2
+Monday,Ball,1,5
+Tuesday,Squirrel,3,3
+Wednesday,Squirrel,3,1
+Thursday,Monkey,2,4
+Friday,Sock,3,7
+Saturday,Ball,2,5
+Sunday,Ball,1,7
+Monday,Sock,3,4
+Tuesday,Monkey,2,3
+Wednesday,Sock,3,6
+Thursday,Sock,3,8
+Friday,Ball,1,9
+Saturday,Squirrel,2,3
+Sunday,Squirrel,3,2
+Monday,Sock,2,5
+Tuesday,Monkey,3,1
+Wednesday,Sock,2,2
+Thursday,Sock,2,5
+Friday,Ball,1,6
+Saturday,Squirrel,2,1
+Sunday,Ball,2,7
+Monday,Sock,3,5
+Tuesday,Monkey,2,3
+Wedneday,Squirrel,2,5
+Thursday,Squirrel,3,4
+Friday,Monkey,3,2
+Saturday,Sock,3,5
+Sunday,Sock,2,7
